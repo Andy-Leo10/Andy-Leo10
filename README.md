@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  📫 Reach me on <a href="www.linkedin.com/in/andrés-leonardo/">LinkedIn</a>
+  📫 Reach me on <a href="https://www.linkedin.com/in/andrés-leonardo/">LinkedIn</a>
 </p>
 
 ---
@@ -24,13 +24,18 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andy-Leo10&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-Leo10&layout=donut&theme=dark" alt="Top Languages">
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Andy-Leo10&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-Leo10&layout=donut&theme=dark" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!--
 **Andy-Leo10/Andy-Leo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
