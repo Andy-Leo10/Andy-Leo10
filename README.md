@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="me.jpg" width="300" alt="me">
+  <img src="https://github.com/Andy-Leo10/Andy-Leo10/assets/60716487/3d90af65-e74d-4626-986f-e5a39513f81a" alt="cover photo" width="1000" height="150">
 </p>
 
 <h1 align="center">Hi there 👋 I'm Andrés Leonardo!</h1>
