@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 👋 I'm Andrés Leonardo!</h1>
 
 <p align="center">
-  🚀 Mechatronics Engineer | 🧠 ROS12 software developer | ✨ Innovator
+  🚀 Mechatronics Engineer | 🧠 ROS2 software developer | ✨ Innovator
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 🌟 What I'm Up To
 
-- 🔭 Currently studying at The Construct in the Robotics Developer MasterClass.
+- 🔭 Currently looking for a job in Robotics.
 - 🌱 Always learning new things.
 - 🌍 Looking for new opportunities.
 
