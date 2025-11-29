@@ -19,29 +19,28 @@ See my portfolio at: <a href="https://andy-leo10.github.io/">andy-leo10.github.i
 ---
 
 ### 💻 Technologies & Skills
-
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48" />
       <br>GitHub
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://images.seeklogo.com/logo-png/44/1/ros-logo-png_seeklogo-441814.png" alt="ROS" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" alt="ROS" width="48" height="48" />
       <br>ROS/ROS2
     </td>
     <td align="center" width="96">
@@ -63,6 +62,8 @@ See my portfolio at: <a href="https://andy-leo10.github.io/">andy-leo10.github.i
 
 ### 📊 GitHub Stats
 
+![Andy-Leo10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy-Leo10&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 <div align="center">
   <table>
     <tr>
@@ -73,24 +74,11 @@ See my portfolio at: <a href="https://andy-leo10.github.io/">andy-leo10.github.i
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-Leo10&layout=donut&theme=dark" alt="Top Languages">
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andy-Leo10&theme=dark" alt="GitHub Streak">
-      </td>
-    </tr>
   </table>
 </div>
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andy-Leo10&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
-</div>
-
----
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Andy-Leo10&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
