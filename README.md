@@ -6,7 +6,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Robotics+Enthusiast;ROS2+Developer;Problem+Solver;Always+Learning!" alt="Typing SVG" /></a>
 </p>
 
-See my portfolio at: <a href="https://andy-leo10.github.io/">andy-leo10.github.io</a>
+<p align="center">
+  See my portfolio at: <a href="https://andy-leo10.github.io/">andy-leo10.github.io</a>
+</p>
 
 ---
 
@@ -61,8 +63,6 @@ See my portfolio at: <a href="https://andy-leo10.github.io/">andy-leo10.github.i
 ---
 
 ### 📊 GitHub Stats
-
-![Andy-Leo10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy-Leo10&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <div align="center">
   <table>
